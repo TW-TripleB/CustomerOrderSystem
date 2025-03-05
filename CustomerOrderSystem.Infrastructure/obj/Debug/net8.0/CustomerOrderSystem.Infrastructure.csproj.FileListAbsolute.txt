@@ -1,0 +1,15 @@
+D:\CustomerOrderSystem\CustomerOrderSystem.Infrastructure\bin\Debug\net8.0\CustomerOrderSystem.Infrastructure.deps.json
+D:\CustomerOrderSystem\CustomerOrderSystem.Infrastructure\bin\Debug\net8.0\CustomerOrderSystem.Infrastructure.dll
+D:\CustomerOrderSystem\CustomerOrderSystem.Infrastructure\bin\Debug\net8.0\CustomerOrderSystem.Infrastructure.pdb
+D:\CustomerOrderSystem\CustomerOrderSystem.Infrastructure\bin\Debug\net8.0\CustomerOrderSystem.Application.dll
+D:\CustomerOrderSystem\CustomerOrderSystem.Infrastructure\bin\Debug\net8.0\CustomerOrderSystem.Domain.dll
+D:\CustomerOrderSystem\CustomerOrderSystem.Infrastructure\bin\Debug\net8.0\CustomerOrderSystem.Domain.pdb
+D:\CustomerOrderSystem\CustomerOrderSystem.Infrastructure\bin\Debug\net8.0\CustomerOrderSystem.Application.pdb
+D:\CustomerOrderSystem\CustomerOrderSystem.Infrastructure\obj\Debug\net8.0\CustomerOrderSystem.Infrastructure.csproj.AssemblyReference.cache
+D:\CustomerOrderSystem\CustomerOrderSystem.Infrastructure\obj\Debug\net8.0\CustomerOrderSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CustomerOrderSystem\CustomerOrderSystem.Infrastructure\obj\Debug\net8.0\CustomerOrderSystem.Infrastructure.csproj.CoreCompileInputs.cache
+D:\CustomerOrderSystem\CustomerOrderSystem.Infrastructure\obj\Debug\net8.0\Customer.62D0817C.Up2Date
+D:\CustomerOrderSystem\CustomerOrderSystem.Infrastructure\obj\Debug\net8.0\CustomerOrderSystem.Infrastructure.dll
+D:\CustomerOrderSystem\CustomerOrderSystem.Infrastructure\obj\Debug\net8.0\refint\CustomerOrderSystem.Infrastructure.dll
+D:\CustomerOrderSystem\CustomerOrderSystem.Infrastructure\obj\Debug\net8.0\CustomerOrderSystem.Infrastructure.pdb
+D:\CustomerOrderSystem\CustomerOrderSystem.Infrastructure\obj\Debug\net8.0\ref\CustomerOrderSystem.Infrastructure.dll

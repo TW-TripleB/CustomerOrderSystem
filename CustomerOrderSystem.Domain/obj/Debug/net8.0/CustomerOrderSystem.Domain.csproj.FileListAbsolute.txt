@@ -1,0 +1,9 @@
+D:\CustomerOrderSystem\CustomerOrderSystem.Domain\bin\Debug\net8.0\CustomerOrderSystem.Domain.deps.json
+D:\CustomerOrderSystem\CustomerOrderSystem.Domain\bin\Debug\net8.0\CustomerOrderSystem.Domain.dll
+D:\CustomerOrderSystem\CustomerOrderSystem.Domain\bin\Debug\net8.0\CustomerOrderSystem.Domain.pdb
+D:\CustomerOrderSystem\CustomerOrderSystem.Domain\obj\Debug\net8.0\CustomerOrderSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CustomerOrderSystem\CustomerOrderSystem.Domain\obj\Debug\net8.0\CustomerOrderSystem.Domain.csproj.CoreCompileInputs.cache
+D:\CustomerOrderSystem\CustomerOrderSystem.Domain\obj\Debug\net8.0\CustomerOrderSystem.Domain.dll
+D:\CustomerOrderSystem\CustomerOrderSystem.Domain\obj\Debug\net8.0\refint\CustomerOrderSystem.Domain.dll
+D:\CustomerOrderSystem\CustomerOrderSystem.Domain\obj\Debug\net8.0\CustomerOrderSystem.Domain.pdb
+D:\CustomerOrderSystem\CustomerOrderSystem.Domain\obj\Debug\net8.0\ref\CustomerOrderSystem.Domain.dll

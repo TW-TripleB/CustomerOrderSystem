@@ -1,0 +1,13 @@
+D:\CustomerOrderSystem\CustomerOrderSystem.Application\bin\Debug\net8.0\CustomerOrderSystem.Application.deps.json
+D:\CustomerOrderSystem\CustomerOrderSystem.Application\bin\Debug\net8.0\CustomerOrderSystem.Application.dll
+D:\CustomerOrderSystem\CustomerOrderSystem.Application\bin\Debug\net8.0\CustomerOrderSystem.Application.pdb
+D:\CustomerOrderSystem\CustomerOrderSystem.Application\bin\Debug\net8.0\CustomerOrderSystem.Domain.dll
+D:\CustomerOrderSystem\CustomerOrderSystem.Application\bin\Debug\net8.0\CustomerOrderSystem.Domain.pdb
+D:\CustomerOrderSystem\CustomerOrderSystem.Application\obj\Debug\net8.0\CustomerOrderSystem.Application.csproj.AssemblyReference.cache
+D:\CustomerOrderSystem\CustomerOrderSystem.Application\obj\Debug\net8.0\CustomerOrderSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\CustomerOrderSystem\CustomerOrderSystem.Application\obj\Debug\net8.0\CustomerOrderSystem.Application.csproj.CoreCompileInputs.cache
+D:\CustomerOrderSystem\CustomerOrderSystem.Application\obj\Debug\net8.0\Customer.B1001C1E.Up2Date
+D:\CustomerOrderSystem\CustomerOrderSystem.Application\obj\Debug\net8.0\CustomerOrderSystem.Application.dll
+D:\CustomerOrderSystem\CustomerOrderSystem.Application\obj\Debug\net8.0\refint\CustomerOrderSystem.Application.dll
+D:\CustomerOrderSystem\CustomerOrderSystem.Application\obj\Debug\net8.0\CustomerOrderSystem.Application.pdb
+D:\CustomerOrderSystem\CustomerOrderSystem.Application\obj\Debug\net8.0\ref\CustomerOrderSystem.Application.dll

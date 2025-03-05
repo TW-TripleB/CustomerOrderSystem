@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "KfBI99MzADceNUN1jPaEFVs7j/LubP+LkQB+f0SP6Tg=",
+  "Source": "CustomerOrderSystem",
+  "BasePath": "_content/CustomerOrderSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
